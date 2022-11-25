@@ -2,11 +2,11 @@
 
 ## Table of content
 
-1. [Abstract](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#abstract)
-2. [Data](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#data)
-3. [Results](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#results)
-4. [Refrences](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#refrences) 
-5. [Contributors](https://github.com/adijams01/cleveland_heart_disease_classification/blob/main/README.md#contributors)
+1. [Abstract](https://github.com/Chandu106/Binary_classification_project02#abstract)
+2. [Data](https://github.com/Chandu106/Binary_classification_project02#data)
+3. [Results](https://github.com/Chandu106/Binary_classification_project02#results)
+4. [Refrences](https://github.com/Chandu106/Binary_classification_project02#refrences) 
+5. [Contributors](https://github.com/Chandu106/Binary_classification_project02#contributors)
 
 ## abstract
 
