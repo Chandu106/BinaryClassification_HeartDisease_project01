@@ -53,10 +53,12 @@ and it looks like this
 
 We got the following results
 
-* loss: 0.4518 - accuracy: 0.8111
+* loss: 0.9102 - accuracy: 0.8333
 
 * Confusion matrix
-![WhatsApp Image 2022-11-25 at 11 21 15 AM](https://user-images.githubusercontent.com/92617405/203923888-363e2435-0674-474b-b593-5880443b88f7.jpeg)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/116875885/204003353-412f8213-c1e2-4533-b4ec-a280289ad1f7.png)
+
 
 ## Refrences
 
